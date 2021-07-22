@@ -1,0 +1,15 @@
+.custom-bg{
+    background-color: #FCEAE8;
+}
+.categories img{
+    width: 100px;
+}
+.button-style{
+    background-color: #FF4D94;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+}
+#button-id{
+    border-radius: 6px;
+}
